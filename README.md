@@ -1,6 +1,6 @@
 # Machine-Learning-Libraries
 <h1>MACHINE LEARNING</h1>
- <p>Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically<br> learn and improve from experience without being explicitly programmed.
+ <p>Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed.
 Machine learning focuses on the development of computer programs that can access data and use it learn for themselves.<br></p>
  <br>
  <img src="download.jpg" >
